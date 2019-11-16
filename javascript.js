@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20c=(document.documentElement.innerHTML.search('srcset')+8);var%20d=(document.documentElement.innerHTML.indexOf('https',c+20)-1);var%20e=document.documentElement.innerHTML.substring(c,d);var%20a=window.open(e);%7D)();
